@@ -6361,6 +6361,7 @@
 #include "modular_skyrat\modules\morefermentplants\code\tobacco.dm"
 #include "modular_skyrat\modules\morefermentplants\code\tomato.dm"
 #include "modular_skyrat\modules\morenarcotics\code\blacktar.dm"
+#include "modular_skyrat\modules\morenarcotics\code\blueskymeth.dm"
 #include "modular_skyrat\modules\morenarcotics\code\cocaine.dm"
 #include "modular_skyrat\modules\morenarcotics\code\cocaine_item.dm"
 #include "modular_skyrat\modules\morenarcotics\code\cocoleaves.dm"
